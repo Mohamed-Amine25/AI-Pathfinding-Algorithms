@@ -7,15 +7,15 @@ While running this project using unity, you can see different paths found by eac
 
 
 
-[![AI Pathfinding Algorithm](Screenshots/1.PNG)]
+[![AI Pathfinding Algorithm](./Screenshots/1.png)]
 
 ## Screenshots
-![](Screenshots/1.PNG)
-![](Screenshots/2.PNG)
-![](Screenshots/3.PNG)
-![](Screenshots/4.PNG)
-![](Screenshots/5.PNG)
-![](Screenshots/6.PNG)
+![](./Screenshots/1.PNG)
+![](./Screenshots/2.PNG)
+![](./Screenshots/3.PNG)
+![](./Screenshots/4.PNG)
+![](./Screenshots/5.PNG)
+![](./Screenshots/6.PNG)
 
 ## References :
 
