@@ -7,7 +7,7 @@ While running this project using unity, you can see different paths found by eac
 
 
 
-[![Intro to AI , Pathfinding Algorithms :]
+[![AI Pathfinding Algorithm](Screenshots/1.PNG)]
 
 ## Screenshots
 ![](Screenshots/1.PNG)
@@ -16,7 +16,6 @@ While running this project using unity, you can see different paths found by eac
 ![](Screenshots/4.PNG)
 ![](Screenshots/5.PNG)
 ![](Screenshots/6.PNG)
-
 
 ## References :
 
